@@ -118,6 +118,9 @@ body{
 	#title{
 		text-align: center;
 	}
+	#pricng{
+		padding: 0 !important;
+	}
 }
 #cta{
 	text-align: center;
